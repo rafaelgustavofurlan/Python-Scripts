@@ -4,10 +4,11 @@ Este repositório contém os exercícios práticos do curso "Python para Data Sc
 
 ## Estrutura dos Exercícios
 
-- Exercício 1: Escreva um programa que peça à pessoa usuária para fornecer dois números e exiba o número maior.
-- Exercício 2: Solicite o percentual de crescimento de produção de uma empresa e informe se houve crescimento (porcentagem positiva) ou decrescimento (porcentagem negativa).
-- Exercício 3: Determine se uma letra fornecida pela pessoa usuária é uma vogal ou consoante.
-- ...
+### Aula 1 - Introdução ao Python
+### Aula 2 - Manipulando dados no Python
+### Aula 3 - Estruturas condicionais
+### Aula 4 - Estruturas de repetição
+### Aula 5 - Estruturas de dados
 
 ## Como Executar os Exercícios
 
